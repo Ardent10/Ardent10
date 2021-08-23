@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ardent10
-- 👀 I’m interested in C++ and understanding DSA.
-- 🌱 I’m currently learning C++.
+- 👀 I’m learning WebDev and practicing DSA.
+- 🌱 I’m a Linux enthusiast.
 - 💞️ I’m looking to collaborate on open source projects for beginners.
 - 📫 you can drop a mail at zak786khan@gmail.com
 
