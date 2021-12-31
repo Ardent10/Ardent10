@@ -39,6 +39,10 @@
     <a href="https://icons8.com/icon/13631/adobe-illustrator"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/></a> 
     <a href="https://icons8.com/icon/K8Ttz87NEjvn/adobe-photoshop"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/></a>
     <a href="https://icons8.com/icon/tkuwWnXfr4fn/adobe-after-effects"><img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v2.png"/></a>
+    <a href="https://icons8.com/icon/62452/firebase"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+    <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/50/000000/redux.png"/></a>
+    <a href="https://icons8.com/icon/v-t4czA7zToV/babel"><img src="https://img.icons8.com/dusk/64/000000/babel.png"/></a>
+    
     
 </p>
 
