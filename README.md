@@ -1,5 +1,5 @@
 <div align = "center">
-    <a  href="#"><img width="50%" height="auto" src="https://media.giphy.com/media/RJaiws3GnVHcybdk0l/giphy.gif" height="175px"/></a>
+    <a  href="#"><img width="40%" height="auto" src="https://media.giphy.com/media/RJaiws3GnVHcybdk0l/giphy.gif"/></a>
 </div>
 
 <h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zaky</h1>
@@ -8,18 +8,18 @@
 
 ##
 
-- 🔭 I’m currently working on **Back-End**
+### 🔭 I’m currently working on Back-End
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+### 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+### 👯 I’m looking to collaborate on OpenSource Projects
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/Ardent10?tab=repositories)**
+### 👨‍💻 All of my projects are available at [My Github](https://github.com/Ardent10?tab=repositories)
 
-- 📫 How to reach me: **zak786khan@gmail.com**
+### 📫 How to reach me: zak786khan@gmail.com
 
-- ⚽ Fun fact **I am a Pro Footballer**
-
+### ⚽ Fun fact I am a Pro Footballer
+##
 ## 🚀 My Tech Stack:
 
 <p align="left"> 
@@ -58,20 +58,19 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Ardent10/github-readme-stats"><img alt="Zaky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ardent10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-  
+    <a href="https://github.com/Ardent10/github-readme-stats"><img alt="Zaky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ardent10&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ardent10/github-readme-stats"><img alt="Zaky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardent10&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
   
   <br/>
+  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+   <br/>
+   <br/>
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/Ardent10/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ardent10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ardent10/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ardent10&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
