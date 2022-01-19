@@ -62,8 +62,9 @@
   <br/>
 
  <div align="center">  
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardent10&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true"/>  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ardent10&theme=radical&show_icons=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ardent10&theme=radical&show_icons=true" />
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardent10&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true"/>  
+  
 </div>
   
   <br/>
