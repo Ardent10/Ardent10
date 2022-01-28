@@ -98,7 +98,11 @@
  
 <br/>
 
-## 🔖 My Contributions
+##
+
+
+### 🔖 My Contributions
+
 </br>
 <p align="center">
         <a href="https://github.com/Ardent10/github-readme-streak-stats">
@@ -106,7 +110,10 @@
     </a>
 </p>
 
-## 📊 My Stats
+
+##
+
+### 📊 My Stats
 
   <br/>
 
