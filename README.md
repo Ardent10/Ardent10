@@ -5,23 +5,69 @@
 <h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zaky</h1>
 <h3 align="center">I'm an Ardent Full Stack Developer from India.</h3>
 
-
 ##
-
+<!-- 
 ### 🔭 I’m currently working on Back-End
-
 ### 🌱 I’m currently learning Data Structures and Algorithms.
-
 ### 👯 I’m looking to collaborate on OpenSource Projects
-
 ### 👨‍💻 All of my projects are available at [My Github](https://github.com/Ardent10?tab=repositories)
-
 ### 📫 How to reach me: zak786khan@gmail.com
-
 ### ⚽ Fun fact I am a Pro Footballer
-##
-## 🚀 My Tech Stack:
+ -->
 
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I’m currently working on Back-End.\
+🌱 &nbsp;I’m currently learning Data Structures and Algorithms.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;I’m looking to collaborate on OpenSource Projects.\
+✉️ &nbsp;You can shoot me an email at zak786khan@gmail.com! I'll try to respond ASAP.\
+⚽ &nbsp;Fun fact I am a Pro Footballer.!
+<!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
+
+##
+
+<!-- ## 🚀 My Tech Stack: -->
+ <img align="right" height="250" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+ 
+ ### 🚀 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Kali](https://img.shields.io/badge/-KaliLinux-05122A?style=flat&logo=kalilinux)&nbsp;\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
+![AEF](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
+![Firebse](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;\
+![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; -->
+<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
+<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\ -->
+
+
+
+
+<!-- <div align = "left"> 
 <p align="left"> 
     <a href="https://icons8.com/icon/40670/c-programming"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://icons8.com/icon/40669/c++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  </a>
@@ -42,11 +88,14 @@
     <a href="https://icons8.com/icon/62452/firebase"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     <a href="https://icons8.com/icon/jD-fJzVguBmw/redux"><img src="https://img.icons8.com/color/50/000000/redux.png"/></a>
     <a href="https://icons8.com/icon/v-t4czA7zToV/babel"><img src="https://img.icons8.com/dusk/64/000000/babel.png"/></a>
-    
-    
 </p>
+<p align="right"><img height="350" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></p>
+</div> -->
+ 
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+ 
+ 
+ 
 <br/>
 
 ## 🔖 My Contributions
@@ -79,11 +128,9 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/zakariya-khan-590281137/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Zakariy02037688"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://github.com/Ardent10"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/>  </a>
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/zakariya-khan-590281137/"><img src="https://img.shields.io/badge/-Zakariya%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zak786khan@gmail.com"><img src="https://img.shields.io/badge/-zak786khan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/Zakariy02037688"><img src="https://img.shields.io/badge/-zak786khan@gmail.com-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://github.com/Ardent10"><img src="https://img.shields.io/badge/-zak786khan@gmail.com-black?style=flat&logo=Github&logoColor=white"/></a>
 </p>
