@@ -2,7 +2,7 @@
     <a  href="#"><img width="40%" height="auto" src="https://media.giphy.com/media/RJaiws3GnVHcybdk0l/giphy.gif"/></a>
 </div>
 
-<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zaky</h1>
+<h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zakariya</h1>
 <h3 align="center">I'm an Ardent Full Stack Developer from India.</h3>
 
 ##
