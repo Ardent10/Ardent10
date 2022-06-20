@@ -20,7 +20,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like Software Development.\
 🎓 &nbsp;I’m currently working on Back-End.\
 🌱 &nbsp;I’m currently learning Data Structures and Algorithms.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
