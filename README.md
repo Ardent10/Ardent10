@@ -27,7 +27,7 @@
 💬 &nbsp;I’m looking to collaborate on OpenSource Projects.\
 ✉️ &nbsp;You can shoot me an email at zak786khan@gmail.com! I'll try to respond ASAP.\
 ⚽ &nbsp;Fun fact I am a Pro Footballer.!\
-💻 &nbsp;Vist my portfolio to know more about me [Zakariya](https://zakariya-ardent10.vercel.app). I'm open to feedback and suggestions!
+💻 &nbsp;Vist my [Portfolio](https://zakariya-ardent10.vercel.app) to know more about me. I'm open to feedback and suggestions!
 
 ##
 
