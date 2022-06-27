@@ -35,7 +35,7 @@
  <img align="right" height="250" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
  
  ### 🚀 &nbsp;Tech Stack
-
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
