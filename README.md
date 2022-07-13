@@ -4,7 +4,7 @@
 -->
     <a  href="#"><img width="40%" style ="border-radius:5px" height="auto" src="https://media.giphy.com/media/51FamSZ2pVYGs/giphy.gif"/></a>
 </div>
-
+ 
 <h1 align="center">Hey There, I'm Zakariya</h1>
 <h3 align="center">I'm an Ardent Full Stack Developer from India.</h3>
 
