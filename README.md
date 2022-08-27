@@ -10,9 +10,9 @@
 
 ##
 <!-- 
-### 🔭 I’m currently working on Back-End
+### 🔭 I’m currently working on GraphQL, CMS, NextJs & TypeScript 
 ### 🌱 I’m currently learning Data Structures and Algorithms.
-### 👯 I’m looking to collaborate on OpenSource Projects
+### 👯 I’m always open to collaborate on OpenSource Projects
 ### 👨‍💻 All of my projects are available at [My Github](https://github.com/Ardent10?tab=repositories)
 ### 📫 How to reach me: zak786khan@gmail.com
 ### ⚽ Fun fact I am a Pro Footballer
