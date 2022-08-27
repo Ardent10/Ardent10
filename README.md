@@ -12,7 +12,7 @@
 <!-- 
 ### 🔭 I’m currently working on GraphQL, CMS, NextJs & TypeScript 
 ### 🌱 I’m currently learning Data Structures and Algorithms.
-### 👯 I’m always open to collaborate on OpenSource Projects
+### 💬 I’m always open to collaborate on OpenSource Projects
 ### 👨‍💻 All of my projects are available at [My Github](https://github.com/Ardent10?tab=repositories)
 ### 📫 How to reach me: zak786khan@gmail.com
 ### ⚽ Fun fact I am a Pro Footballer
@@ -21,12 +21,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
  
 💡 &nbsp; I like Software Development.\
-🎓 &nbsp;I’m currently working on Back-End.\
+👨‍💻 &nbsp;I’m currently working on GraphQL, CMS, NextJs & TypeScript.\
 🌱 &nbsp;I’m currently learning Data Structures and Algorithms.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;I’m looking to collaborate on OpenSource Projects.\
-✉️ &nbsp;You can shoot me an email at zak786khan@gmail.com! I'll try to respond ASAP.\
-⚽ &nbsp;Fun fact I am a Pro Footballer.!\
+👯 &nbsp;I’m always open to collaborate on Open Source Projects.\
+✉️ &nbsp;You can drop me an email at zak786khan@gmail.com! I'll try to respond ASAP.\
+⚽ &nbsp;Fun fact I am a Pro Footballer.\
 💻 &nbsp;Vist my [Portfolio](https://zakariya-ardent10.vercel.app) to know more about me. I'm open to feedback and suggestions!
 
 ##
