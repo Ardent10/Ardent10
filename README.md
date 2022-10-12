@@ -29,7 +29,7 @@
 ⚽ &nbsp;Fun fact I am a Pro Footballer.\
 💻 &nbsp;Vist my [Portfolio](https://zakariya-ardent10.vercel.app) to know more about me. I'm open to feedback and suggestions!
 
-##
+## 
 
 <!-- ## 🚀 My Tech Stack: -->
  <img align="right" height="250" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
