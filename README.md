@@ -8,7 +8,6 @@
 <h1 align="center">Hey, I'm Zakariya</h1>
 <h2 align="center">I am a Software Developer from India.</h2>
 
-
 <!-- 
 ### 🔭 I’m currently working on GraphQL, CMS, NextJs & TypeScript 
 ### 🌱 I’m currently learning Data Structures and Algorithms.
