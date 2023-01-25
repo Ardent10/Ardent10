@@ -57,7 +57,7 @@
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 ![AEF](https://img.shields.io/badge/-AfterEffects-05122A?style=flat&logo=adobeaftereffects)&nbsp;
 ![Firebse](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;\
-![WordPress](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=wordpress)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
