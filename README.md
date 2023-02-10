@@ -9,12 +9,12 @@
 <h2 align="center">I am a Software Developer from India.</h2>
 
 <!-- 
-### 🔭 I’m currently working on GraphQL, CMS, NextJs & TypeScript 
+### 🔭 I’m currently working on GraphQL, CMS, NextJs & TypeScript. 
 ### 🌱 I’m currently learning Data Structures and Algorithms.
-### 💬 I’m always open to collaborate on OpenSource Projects
+### 💬 I’m always open to collaborate on OpenSource Projects.
 ### 👨‍💻 All of my projects are available at [My Github](https://github.com/Ardent10?tab=repositories)
 ### 📫 How to reach me: zak786khan@gmail.com
-### ⚽ Fun fact I am a Pro Footballer
+### ⚽ Fun fact I am a Pro Footballer.
  -->
 
 ### 👨🏻‍💻 &nbsp;About Me
