@@ -9,7 +9,7 @@
 <h2 align="center">I am a Software Developer from India.</h2>
 
 <!-- 
-### 🔭 I’m currently working on GraphQL, CMS, NextJs & TypeScript. 
+### 🔭 I’m currently working on K8s. 
 ### 🌱 I’m currently learning Data Structures and Algorithms.
 ### 💬 I’m always open to collaborate on OpenSource Projects.
 ### 👨‍💻 All of my projects are available at [My Github](https://github.com/Ardent10?tab=repositories)
@@ -20,7 +20,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
  
 💡 &nbsp; I like Software Development.\
-👨‍💻 &nbsp;I’m currently working on GraphQL, CMS, NextJs & TypeScript.\
+👨‍💻 &nbsp;I’m currently working on k8s.\
 🌱 &nbsp;I’m currently learning Data Structures and Algorithms.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 👯 &nbsp;I’m always open to collaborate on Open Source Projects.\
