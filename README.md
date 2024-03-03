@@ -34,7 +34,9 @@
  <!-- <img align="right" height="250" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
  
  ### 🚀 &nbsp;Tech Stack
-  
+
+### 🚀 &nbsp;Technology
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -66,7 +68,19 @@
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;\
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) -->
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+
+<-- | Tech | Skills |
+|---------|--------|
+| **Frontend:** | ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp; ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp; ![Material-UI](https://img.shields.io/badge/-Material--UI-05122A?style=flat&logo=material-ui)&nbsp; ![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=ant-design)&nbsp; ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-05122A?style=flat&logo=chakra-ui)&nbsp; ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp; ![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs)&nbsp; ![Jekyll](https://img.shields.io/badge/-Jekyll-05122A?style=flat&logo=jekyll)&nbsp; ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp; ![RapidAPI](https://img.shields.io/badge/-RapidAPI-05122A?style=flat&logo=rapidapi)&nbsp; |
+| **Backend:** | ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp; ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp; ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; ![WebSockets](https://img.shields.io/badge/-WebSockets-05122A?style=flat&logo=socket.io)&nbsp; ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp; |
+| **Microservice:** | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp; |
+| **DevOps:** | ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp; ![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml)&nbsp; ![Scripting](https://img.shields.io/badge/-Scripting-05122A?style=flat&logo=gnu-bash)&nbsp; ![SSH](https://img.shields.io/badge/-SSH-05122A?style=flat&logo=ssh)&nbsp; ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp; ![Auto Scaling](https://img.shields.io/badge/-Auto%20Scaling-05122A?style=flat&logo=amazon-aws)&nbsp; ![EC2](https://img.shields.io/badge/-EC2-05122A?style=flat&logo=amazon-ec2)&nbsp; ![S3](https://img.shields.io/badge/-S3-05122A?style=flat&logo=amazon-s3)&nbsp; ![Load Balancer](https://img.shields.io/badge/-Load%20Balancer-05122A?style=flat&logo=amazon-aws)&nbsp; ![Route53](https://img.shields.io/badge/-Route53-05122A?style=flat&logo=amazon-route53)&nbsp; ![CloudFront](https://img.shields.io/badge/-CloudFront-05122A?style=flat&logo=amazon-cloudfront)&nbsp; ![CodeBuild](https://img.shields.io/badge/-CodeBuild-05122A?style=flat&logo=amazon-aws)&nbsp; ![CodePipeline](https://img.shields.io/badge/-CodePipeline-05122A?style=flat&logo=amazon-aws)&nbsp; ![CI/CD](https://img.shields.io/badge/-CI%2FCD-05122A?style=flat&logo=jenkins)&nbsp; |
+| **Languages:** | ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)
+-->
+
+
 
 
  <img align="right" height="250" src = "https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
