@@ -6,7 +6,7 @@
 </div>
    
 <h1 align="center">Hey, I'm Zakariya</h1>
-<h2 align="center">I am a Software Developer from India.</h2>
+<h2 align="center">I am a Software Engineer from India.</h2>
 
 <!-- 
 ### 🔭 I’m currently working on K8s. 
