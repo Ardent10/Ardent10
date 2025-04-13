@@ -22,7 +22,7 @@
 💡 &nbsp; I like Software Development.\
 👨‍💻 &nbsp;I’m currently working on k8s.\
 🌱 &nbsp;I’m currently learning Data Structures and Algorithms.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✍️ &nbsp;I read, blog, build as hobbies/side hustles.\
 👯 &nbsp;I’m always open to collaborate on Open Source Projects.\
 ✉️ &nbsp;You can drop me an email at zak786khan@gmail.com! I'll try to respond ASAP.\
 ⚽ &nbsp;Fun fact I am a Pro Footballer.\
